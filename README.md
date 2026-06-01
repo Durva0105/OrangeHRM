@@ -1,5 +1,5 @@
 ## OrangeHRM Automation Testing Project
-##📌 #Project Description#
+##📌 Project Description#
 
 The OrangeHRM Automation Testing Project is designed to test the OrangeHRM demo web application using Selenium WebDriver.
 It ensures that core HR functionalities like login, dashboard access, and logout are working correctly.
